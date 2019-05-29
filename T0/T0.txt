@@ -1,0 +1,32 @@
+Beale=function(x){
+  fx=(1.5-x[1]+x[1]*x[2])^2+(2.25-x[1]+x[1]*x[2]^2)^2+(2.625-x[1]+x[1]*x[2]^3)^2
+  return(fx)
+}
+DP=function(x){
+  sum=0
+  for(i in 1:length(x)){
+    sum=i*(2*x[i]^2-x[i-1])^2
+  }
+  fx=(x[1]-1)^2+sum
+  return(fx)
+}
+Random=function(n,a,b,rulari){
+  minv=vector()
+  l=0
+  for(i in 1:rulari){
+    min=9999999
+    for(j in 1:1000){
+      s<-runif(n,a,b)
+      x=DP(s)
+      if(min>x){
+        min<-x
+      }
+    }
+    minv[l]=min
+    l=l+1
+  }
+  print(min(minv))
+  print(max(minv))
+  print(mean(minv))
+}
+Random(2,-10,10,30)

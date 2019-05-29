@@ -1,0 +1,20 @@
+﻿  tema 1.cpp
+e:\facultate\anu 2\algoritmi genetici\tema 1\tema 1\bitfunctions.h(43): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\facultate\anu 2\algoritmi genetici\tema 1\tema 1\bitfunctions.h(44): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\facultate\anu 2\algoritmi genetici\tema 1\tema 1\bitfunctions.h(51): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\facultate\anu 2\algoritmi genetici\tema 1\tema 1\bitfunctions.h(52): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\facultate\anu 2\algoritmi genetici\tema 1\tema 1\bitfunctions.h(58): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+e:\facultate\anu 2\algoritmi genetici\tema 1\tema 1\bitfunctions.h(59): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+e:\facultate\anu 2\algoritmi genetici\tema 1\tema 1\bitfunctions.h(73): warning C4018: '<': signed/unsigned mismatch
+e:\facultate\anu 2\algoritmi genetici\tema 1\tema 1\bitfunctions.h(75): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\facultate\anu 2\algoritmi genetici\tema 1\tema 1\bitfunctions.h(83): warning C4018: '<': signed/unsigned mismatch
+e:\facultate\anu 2\algoritmi genetici\tema 1\tema 1\bitfunctions.h(95): warning C4018: '<': signed/unsigned mismatch
+e:\facultate\anu 2\algoritmi genetici\tema 1\tema 1\fitnesses.h(56): warning C4101: 'i': unreferenced local variable
+e:\facultate\anu 2\algoritmi genetici\tema 1\tema 1\tema 1.cpp(44): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+e:\facultate\anu 2\algoritmi genetici\tema 1\tema 1\tema 1.cpp(57): warning C4018: '<': signed/unsigned mismatch
+e:\facultate\anu 2\algoritmi genetici\tema 1\tema 1\tema 1.cpp(83): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+e:\facultate\anu 2\algoritmi genetici\tema 1\tema 1\tema 1.cpp(92): warning C4018: '<': signed/unsigned mismatch
+e:\facultate\anu 2\algoritmi genetici\tema 1\tema 1\tema 1.cpp(125): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+e:\facultate\anu 2\algoritmi genetici\tema 1\tema 1\tema 1.cpp(169): warning C4018: '<': signed/unsigned mismatch
+  tema 1.vcxproj -> E:\facultate\anu 2\algoritmi genetici\tema 1\Debug\tema 1.exe
+  tema 1.vcxproj -> E:\facultate\anu 2\algoritmi genetici\tema 1\Debug\tema 1.pdb (Full PDB)
